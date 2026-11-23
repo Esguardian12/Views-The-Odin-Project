@@ -1,5 +1,25 @@
 {
   "dependencies": {
-    "ejs": "^7.0.2"
-  }
+    "ejs": "^7.0.2",
+    "express": "^5.3.0"
+  },
+  "name": "views-the-odin-project",
+  "version": "1.0.0",
+  "description": "This will be a repository for the EJS. A new tool that I am learning from The Odin Project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esguardian12/Views-The-Odin-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Esguardian12/Views-The-Odin-Project/issues"
+  },
+  "homepage": "https://github.com/Esguardian12/Views-The-Odin-Project#readme"
 }
